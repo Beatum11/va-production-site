@@ -1,0 +1,25 @@
+.contacts-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 40px;
+    color: white;
+    margin-top: 20px;
+}
+
+.contacts-container h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.contacts-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.contacts-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

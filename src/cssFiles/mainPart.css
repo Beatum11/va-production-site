@@ -1,0 +1,51 @@
+.main-body{
+    display: grid;
+    grid-template-columns: 1fr;
+    min-height: 100vh;
+}
+
+.mainPart-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-image: url("https://images.pexels.com/photos/3379934/pexels-photo-3379934.jpeg?cs=srgb&dl=pexels-kyle-loftus-3379934.jpg&fm=jpg");
+}
+
+/* __________________________________________________ */
+/* TEXT ZONE */
+
+.mainPart-text{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 50%;
+    align-items: flex-start;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.mainPart-text h1{
+    font-size: 50px;
+}
+
+.mainPart-description{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',;
+    font-size: 25px;
+}
+
+.mainPart-addition{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',;
+    font-size: 20px;
+}
+
+/* __________________________________________________ */
+
+
+/* FORM ZONE */
+
+.mainPart-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

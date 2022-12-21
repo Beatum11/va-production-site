@@ -1,0 +1,9 @@
+.menu-container{
+    justify-content: flex-end;
+    margin-bottom: 25px;
+}
+
+.menu-a{
+    font-size: 17px;
+}
+

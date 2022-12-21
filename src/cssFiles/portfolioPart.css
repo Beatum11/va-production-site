@@ -1,0 +1,14 @@
+.portfolio-container{
+    min-height: 100vh;
+}
+
+.portfolio-text{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+/* .portfolio-container h2{
+    font-size: 40px;
+    color: white;
+} */

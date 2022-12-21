@@ -1,0 +1,15 @@
+.about-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items:center;
+    padding: 40px;
+    min-height: 50vh;
+    background-color: black;
+    color: white;
+}
+
+.about-container p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',;
+    font-size: 25px;
+}

@@ -1,0 +1,10 @@
+.videoList-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.videoList-container iframe{
+    margin: 60px;
+}
